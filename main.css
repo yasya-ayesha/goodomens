@@ -1,0 +1,22 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+li{
+    text-transform: capitalize;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.bg-silver{
+    background: silver
+}
+h1{
+    text-transform: uppercase; text-align: center; color: gold; background-color: skyblue;
+}
+h2{
+    text-transform: uppercase;
+    margin-left: 50px;
+}
